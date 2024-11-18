@@ -1,0 +1,8 @@
+{
+  "RepoName": "Privé",
+  "templateUrl": "https://github.com/businesscentralapps/tmp3CudPS-PTE@main",
+  "type": "PTE",
+  "runs-on": "ubuntu-latest",
+  "shell": "pwsh",
+  "MicrosoftTelemetryConnectionString": ""
+}
